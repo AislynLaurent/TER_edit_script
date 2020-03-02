@@ -1,5 +1,5 @@
-input = open("renumbered.pdb","r")
-output = open("fixed_renumbered.pdb","a")
+input = open("input_file.pdb","r")
+output = open("output_file.pdb","a")
 
 lines = input.readlines()
 
